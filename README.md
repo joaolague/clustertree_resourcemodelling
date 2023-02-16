@@ -11,7 +11,8 @@ The target lithologies are hematites and itabirites of different types in an iro
 The source code for this project is named clustertree.ipynb, which includes data preprocessing, clustering and visualization of the results. Along with this file, other codes for validation plots and exploratory data analysis are also included.
 
 
-Requirements
+# Requirements
+
 To run the project, you need to have the following libraries installed:
 
 NumPy
@@ -22,12 +23,13 @@ Seaborn
 Spatial Cluster
 
 
-How to run the project
+# How to run the project
 
 Clone this repository on your local machine.
 Open the Jupyter Notebook file named clustertree.ipynb.
 Run each cell of the notebook in the order presented.
 Visualize the results in the results visualization section.
 
-Author
+# Author
+
 This project was created by joaolague as part of your final project for your course.
