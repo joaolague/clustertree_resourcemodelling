@@ -1,6 +1,6 @@
 # clustertree_resourcemodelling
 
-# Lithological Classification and Uncertainty Analysis in Diamond Drilling Data Using Unsupervised Machine Learning
+# Lithological Classification and Uncertainty Analysis with Unsupervised Machine Learning
 
 This is a project for lithological classification and uncertainty analysis in diamond drilling data using unsupervised machine learning techniques. The goal of this project is to create a classification model that can predict lithology from chemical variables, and evaluate the uncertainty associated with the model's predictions.
 
